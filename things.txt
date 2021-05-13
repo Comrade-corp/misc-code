@@ -1,0 +1,1 @@
+this is only for projects that include CSS and javascript files to use it.
