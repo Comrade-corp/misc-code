@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.color
+color: red;
+</style>
+<p class="color">Always start your html doc with (<!DOCTYPE html>)></p>
