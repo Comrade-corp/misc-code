@@ -1,8 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.color
-color: red;
-</style>
-<p class="color">Always start your html doc with (<!DOCTYPE html>)></p>
+<link rel="icon" href="loading.gif" type="image/gif" >
+                 <style type="text/css">
+                     @import url("https://fonts.googleapis.com/css?family=VT323");
+            ::selection {color:#FFFFFF; background:transparent;}
+            ::-moz-selection {color:#FFFFFF; background:transparent;}
+            *{
+                margin: 0;
+                padding: 0;
+                font-family: "VT323";
+            }
+    div.a {
+    color: #000000;
+    text-align: center;
+    font-size: 40px;
+}
+            body{
+                background-color: #000000 ;
+            }
+                     
+            .wrap{
+                margin-left: auto;
+                margin-right: auto;
+            }
+                     
+            text{
+            height: 20
+            position: centert
+            }
+                               p {
+  animation: color-change 10s infinite;
+}
+
+@keyframes color-change {
+0% { color: red; }
+  32% { color: orange; }
+    48% { color: yellow; }
+    64% { color: green; }
+    100% { color: blue; }
+                }
+            </style>
+<a href="https://0f3c40e3-0ba9-4378-bc3e-a4cf0628b897.htmlcomponentservice.com/get_draft?id=0f3c40_cef51fbf46f303e0995de7647e1780af.html">snake game :)</a>
+<p>a little bit of a color changing text :)</p>
+<p>
+  heres the code for color change :))
+                                 p {
+  animation: color-change 10s infinite;
+}
+
+@keyframes color-change {
+0% { color: red; }
+  32% { color: orange; }
+    48% { color: yellow; }
+    64% { color: green; }
+    100% { color: blue; }
+                }
+                </p>
